@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Hp\AppData\Local\Temp\surefire18116388689223082113\surefirebooter2794504908555310526.jar C:\Users\Hp\AppData\Local\Temp\surefire18116388689223082113 2024-07-22T12-38-10_109-jvmRun1 surefire6479931953097797431tmp surefire_0430145802232052997tmp"/>
+    <property name="sun.java.command" value="C:\Users\Hp\AppData\Local\Temp\surefire13795652587382412411\surefirebooter8540725949834597885.jar C:\Users\Hp\AppData\Local\Temp\surefire13795652587382412411 2024-07-22T12-55-11_623-jvmRun1 surefire2559820712405093626tmp surefire_016200713422116458044tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="G:\JAVA\incubyte_assignment_ror\target\test-classes;G:\JAVA\incubyte_assignment_ror\target\classes;C:\Users\Hp\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Hp\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Hp\AppData\Local\Temp\surefire18116388689223082113\surefirebooter2794504908555310526.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Hp\AppData\Local\Temp\surefire13795652587382412411\surefirebooter8540725949834597885.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
@@ -56,11 +56,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testCustomDelimiter" classname="com.example.StringCalculatorTest" time="0.009"/>
+  <testcase name="testCustomDelimiter" classname="com.example.StringCalculatorTest" time="0.02"/>
   <testcase name="testSingleNumber" classname="com.example.StringCalculatorTest" time="0"/>
   <testcase name="testNewLineDelimiter" classname="com.example.StringCalculatorTest" time="0"/>
   <testcase name="testMultipleNumbers" classname="com.example.StringCalculatorTest" time="0"/>
-  <testcase name="testMultipleNegativeNumbers" classname="com.example.StringCalculatorTest" time="0"/>
+  <testcase name="testMultipleNegativeNumbers" classname="com.example.StringCalculatorTest" time="0.001"/>
   <testcase name="testEmptyString" classname="com.example.StringCalculatorTest" time="0"/>
-  <testcase name="testNegativeNumber" classname="com.example.StringCalculatorTest" time="0"/>
+  <testcase name="testNegativeNumber" classname="com.example.StringCalculatorTest" time="0.001"/>
 </testsuite>
